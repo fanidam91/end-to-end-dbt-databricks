@@ -15,6 +15,8 @@ Strong governance and security
 Reusability and scalability
 
 Auditability and traceability
+<img width="620" height="134" alt="image" src="https://github.com/user-attachments/assets/c0efc979-eb04-4e38-bd79-f8df5c07b3ed" />
+
 
 It reflects real-world enterprise and government data engineering practices.
 
